@@ -61,7 +61,7 @@ referrer = cols[3].number_input("Referrer", min_value=0, value=0)
 user_agent = cols[4].number_input("User Agent", min_value=0, value=0)
 
 # Placeholder for prediction (for demonstration purposes, it's a static value)
-prediction = "This is a static prediction for demonstration purposes."
+prediction = "Mikel virgen"
 
 # Button to show the output
 if st.button("Show Output"):
